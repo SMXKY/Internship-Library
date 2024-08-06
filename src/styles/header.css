@@ -23,11 +23,16 @@
   padding: 0.5rem;
   border-top-left-radius: 1rem;
   border-bottom-left-radius: 1rem;
+  border: solid 1px var(--call-to-action);
 }
 
 .search-btn {
   border-top-right-radius: 1rem;
   border-bottom-right-radius: 1rem;
+  border: solid 1px var(--call-to-action);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .search-bar-container {
