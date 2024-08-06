@@ -1,0 +1,36 @@
+.header,
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header {
+  padding: 1rem 6rem;
+}
+
+.header-icon {
+  width: 1.8rem;
+  height: 1.8rem;
+}
+
+.logo img {
+  margin-right: 0.5rem;
+}
+
+.search-bar {
+  width: 40vw;
+  padding: 0.5rem;
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+.search-btn {
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+.search-bar-container {
+  display: flex;
+  align-items: center;
+}

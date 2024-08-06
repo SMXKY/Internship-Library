@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*Optional gerneral properites*/
+  font-family: roboto arial;
+  transition: 0.15s;
+}
+
+img {
+  object-fit: cover;
+}
+
+:root {
+  --call-to-action-color: #593b2d;
+}
